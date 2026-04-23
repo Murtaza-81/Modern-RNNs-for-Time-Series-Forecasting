@@ -57,3 +57,5 @@ python run_experiments.py
 python train.py          # Train both models
 python evaluate.py       # Evaluate on test set
 python efficiency.py     # Profile model efficiency
+
+"All results (plots, model weights, metrics) are generated automatically when you run python run_experiments.py."
