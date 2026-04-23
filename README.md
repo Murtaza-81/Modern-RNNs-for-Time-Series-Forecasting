@@ -1,4 +1,4 @@
-# CS511 Assignment 2: Modern RNNs for Time Series Forecasting
+## Modern RNNs for Time Series Forecasting
 
 ## Overview
 This project implements and compares two recurrent neural network architectures for multivariate time series forecasting on the ETTh1 (Electricity Transformer Temperature) dataset.
